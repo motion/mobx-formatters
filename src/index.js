@@ -1,4 +1,4 @@
-import mobxFormatters from './mobxFormatters'
+import mobxFormatters from './formatters'
 
 // optional global check
 if (typeof mobx !== 'undefined') {
