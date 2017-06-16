@@ -1,5 +1,7 @@
 # mobx formatters for chrome
 
+<img alt="mobx formatters" src="screen.png" align="center" />
+
 [![Npm Version](https://badge.fury.io/js/mobx-formatters.svg)](https://badge.fury.io/js/mobx-formatters)
 [![NPM downloads](http://img.shields.io/npm/dm/mobx-formatters.svg)](https://www.npmjs.com/package/mobx-formatters)
 [![devDependency Status](https://david-dm.org/andrewdavey/mobx-formatters/dev-status.svg)](https://david-dm.org/andrewdavey/mobx-formatters#info=devDependencies)

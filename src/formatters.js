@@ -1,5 +1,6 @@
 const listStyle = {
-  style: 'list-style-type: none; padding: 0; margin: 0 0 0 12px; font-style: normal',
+  style:
+    'list-style-type: none; padding: 0; margin: 0 0 0 12px; font-style: normal',
 }
 const mobxNameStyle = { style: 'color: rgb(232,98,0)' }
 const nullStyle = { style: 'color: #777' }
