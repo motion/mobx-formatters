@@ -1,10 +1,10 @@
 # mobx formatters for chrome
 
-<img alt="mobx formatters" src="screen.png" align="center" width="300px" />
-
 [![Npm Version](https://badge.fury.io/js/mobx-formatters.svg)](https://badge.fury.io/js/mobx-formatters)
 [![NPM downloads](http://img.shields.io/npm/dm/mobx-formatters.svg)](https://www.npmjs.com/package/mobx-formatters)
 [![devDependency Status](https://david-dm.org/andrewdavey/mobx-formatters/dev-status.svg)](https://david-dm.org/andrewdavey/mobx-formatters#info=devDependencies)
+
+<img alt="mobx formatters" src="screen.png" align="right" width="300px" />
 
 [Mobx](https://mobx.js.org/) is fantastic, but inspecting mobx collections in Chrome's Dev Tools is awkward. You only see the internal data structure, not the logical contents. For example, when inspecting the contents of an Mobx Object, you'd really like to see the items in the list.
 
