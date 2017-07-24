@@ -20,7 +20,7 @@ The library currently has formatters for:
  - [x] `Object`
  - [x] `Array`
 
-Want something more? [Write down your wishes!](https://github.com/andrewdavey/mobx-formatters/issues/new)
+Want something more? [Write down your wishes!](https://github.com/motion/mobx-formatters/issues/new)
 
 ## Installation
 
